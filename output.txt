@@ -7,5 +7,15 @@ Menu:
 5. Edit guide
 6. Search for some age
 7. Exit
+4
+Output
+Menu:
+1. Add
+2. Search
+3. Sort
+4. Output
+5. Edit guide
+6. Search for some age
+7. Exit
 7
 Exit. goodbye

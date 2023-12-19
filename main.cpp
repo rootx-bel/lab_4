@@ -240,5 +240,6 @@ int main(){
             break;
         }
     }
+    db.erase(db.begin(), db.end());
     return 0;
 }
